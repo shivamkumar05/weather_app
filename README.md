@@ -64,11 +64,12 @@ To run the Weather App locally, follow these steps:
 
 Ensure that you have Flutter and Dart installed on your machine before running the app.
 
-## Contributors
+## Screenshots
 
-- Your Name
-- Collaborator 1
-- Collaborator 2
+![weather app](https://github.com/shivamkumar05/weather_app/assets/114653141/5544f996-c215-4a2a-bece-5b2ff297cb4a)
+
+## Contributing
+If you'd like to contribute to the project, please follow the contribution guidelines.
 
 ## Acknowledgments
 
